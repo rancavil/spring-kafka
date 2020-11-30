@@ -2,6 +2,8 @@
 
 The following example is a Producer for sending messages through a topic using Kafka and Spring.
 
+**Note:** you must have an **Apache Kafka** broker running.
+
 ## Producer
 
 The producer is developed using Java Spring Boot. We are going to send messages about temperature emulating a Sensor.
